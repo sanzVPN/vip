@@ -9,7 +9,7 @@
 </code></pre>
 
 ### PERINTAH UPDATE 
-<pre><code>wget https://raw.githubusercontent.com/sanzVPN/vip/main/files/update.sh && chmod +x update.sh && ./update</code></pre>
+<pre><code>wget https://raw.githubusercontent.com/sanzVPN/vip/main/files/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
 ### TESTED ON OS 
 - UBUNTU 20
